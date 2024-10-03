@@ -3,7 +3,7 @@
 
 - My First Project [Detection based Security System](https://youtu.be/ZynbXOKFSTY?si=pAMoelumMO7xmmyT)
 
-- 🌱 I’m currently learning **about Processors and Controllers**
+- 🌱 I’m currently learning **VLSI**
 
 - 📫 How to reach me **rayanasriramkumar@gmail.com**
 
