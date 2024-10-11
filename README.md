@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayana Sri Ram Kumar</h1>
 <h3 align="center">A passionate Electronics and Communication Engineering Student</h3>
 
-- My First Project [Detection based Security System](https://youtu.be/ZynbXOKFSTY?si=pAMoelumMO7xmmyT)
-
-- 🌱 I’m currently learning **VLSI**
+- 🌱 I’m currently Interested learning **VLSI**
 
 - 📫 How to reach me **rayanasriramkumar@gmail.com**
 
