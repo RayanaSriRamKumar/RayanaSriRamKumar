@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rayana Sri Ram Kumar</h1>
+<h1 align="center">Hello Everyone, I'm Rayana Sri Ram Kumar</h1>
 <h3 align="center">A passionate Electronics and Communication Engineering Student</h3>
 
 <h3 align="left">Connect with me:</h3>
