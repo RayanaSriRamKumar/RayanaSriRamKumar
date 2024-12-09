@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rayana Sri Ram Kumar</h1>
 <h3 align="center">A passionate Electronics and Communication Engineering Student</h3>
 
-- 🌱 I’m currently Interested in learning **VLSI**
-
-- 📫 How to reach me **rayanasriramkumar@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rayana-sri-ram-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayanasriramkumar" height="30" width="40" /></a>
